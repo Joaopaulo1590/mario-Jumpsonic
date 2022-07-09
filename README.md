@@ -5,5 +5,5 @@
 <p>ultilizando html,css e JS, para fixar os conhecimentos<p>
   
   <h3>GIF DO JOGO</h3>
-   
+ 
   <img src = './assets/gig.gif'>
